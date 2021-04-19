@@ -1,0 +1,350 @@
+@media (max-width:1400px){}
+@media (max-width:1200px){
+    .logo-img-section ul li {
+        padding: 5px 8px;
+    }
+}
+@media (max-width:1070px){
+    .body-content {
+        width: 51%;
+    }
+    .logo-img-section ul li {
+        padding: 2px 5px;
+    }
+
+}
+@media (max-width:1017px){
+    .main-header {
+        display: inherit;
+        text-align: center;
+    }
+    .header-logo {
+        width: 100%;
+        margin-bottom: 12px;
+    }
+    .header-logo img {
+        max-width: 18%;
+    }
+    .header-manu ul li a {
+        padding: 0 10px;
+        font-size: 13px;
+    }
+    .body-image {
+        width: 25%;
+    }
+    .body-content {
+        width: 51%;
+    }
+    .body-content h3 {
+        font-size: 20px;
+    }
+    .body-content p {
+        font-size: 13px;
+    }
+    .body-content .body-subtitle .subtitle-left ul li {
+        font-size: 13px;
+        line-height: 32px;
+    }
+    .body-content .body-subtitle .subtitle-right ul li {
+        font-size: 13px;
+        line-height: 32px;
+    }
+    .body-btn.btn {
+        padding: 15px 11px;
+        font-size: 12px;
+        margin-top: 19px;
+    }
+    .body-title {
+        margin-bottom: -179px;
+    }
+    .left-contain {
+        width: 34%;
+    }
+    .right-contain {
+        width: 60%;
+        margin-left: 20px;
+    }
+    .items-detelis {
+        margin-bottom: -44px;
+    
+    }
+    .frotfolio-title h1 {
+        width: 61%;
+        font-size: 27px;
+    }
+    .skills-title h1 {
+        font-size: 28px;
+    }
+    .education-title h1 {
+        font-size: 25px;
+    }
+    .employment-title h1 {
+        font-size: 28px;
+    }
+    .hire-title h1 {
+        font-size: 29px;
+    }
+    p {
+        font-size: 15px;
+    }
+    .employment-sedction {
+        margin-top: -60px;
+    }
+    .protfolio-section {
+        margin: 204px 0;
+    }
+    
+}
+@media (max-width:1067px){
+    .body-content {
+        width: 100%;
+    }
+    .body-image {
+        width: 100%;
+        text-align: center;
+    }
+    
+
+}
+
+
+@media (max-width:899px){
+    .member-imag {
+        margin-top: 111px;
+    }
+    .logo-img-section ul li {
+        padding: 15px 5px;
+        width: 50%;
+    }
+    .member-imag {
+        margin-top: 86px;
+    }
+    }
+    .header-manu span{
+        display: none;
+    }
+    element {
+
+    }
+    .services-product ul li {
+    
+        max-width: 45%;
+    
+    }
+    
+@media (max-width:732px){
+    .header-manu ul {
+        opacity: 0;
+        visibility: hidden;
+        height: 0 !important;
+    }
+    .header-manu span {
+        font-size: 40px;
+        color: #f2a715;
+        cursor: pointer;
+        display: block;
+        text-align: right;
+    }
+    .header-logo img {
+        max-width: 100%;
+    }
+    .header-logo {
+        width: 150px;
+        margin-bottom: 12px;
+        display: flex;
+        height: 70px;
+    }
+    .header-manu {
+        width: 200px;
+        position: absolute;
+        top: 32px;
+        right: 55px;
+    }
+    .header-manu .check:checked ~ ul{
+        opacity: 1;
+        visibility: visible;
+        height: 100% !important;
+
+    }
+    .header-manu ul {
+        display: block;
+    }
+    .check {
+        width: 38px;
+        height: 35px;
+        position: absolute;
+        top: 8px;
+        right: 0;
+        opacity: 0;
+    }
+    .header-manu ul {
+        display: block;
+        background-color: #808080cf;
+        margin: 16px;
+    }
+   
+    .header-manu ul li {
+        margin: 9px 0;
+    }
+    .header-manu ul li ul {
+        position: absolute;
+        top: 100%;
+        left: -200px;
+        width: 220px;
+        height: auto;
+        background-color: #cc085a;
+    }
+
+    .header-manu ul li ul li ul{
+        left: -100px;
+    }
+    .header-manu ul li ul li ul {
+        left: -151px;
+    }
+    .submanu {
+        background: #2139bb !important;
+    }
+    .fas.fa-chevron-down {
+        display: none;
+    }
+    .fas.fa-chevron-right {
+        display: none;
+    }
+    .check{
+        display: block;
+    }
+    .skills-servics .skills-product {
+        width: 45%;
+    }
+    .info-box {
+        display: inherit;
+    }
+    .items {
+        width: 100%;
+    }
+
+}
+
+@media (max-width:699px){
+    .employment-detiles {
+        display: inherit;
+    }
+    .employment-member {
+        width: 100%;
+    }
+}
+
+@media (max-width:615px){
+    .subtitle-left {
+        width: 19%;
+    }
+    .body-section {
+        margin-top: 22px;
+    }
+    .protfolio-section {
+        margin: 204px 0;
+    }
+    .employment-title h1 {
+        font-size: 16px;
+    }
+    .employment-title h1 {
+        width: 100%;
+       
+    }
+}
+@media (max-width:570px){
+    .banner-title h1 {
+        font-size: 28px;
+        margin: 11px 0;
+    }
+    p {
+        font-size: 12px;
+    }
+    .btn {
+        border: 1px solid #fff;
+        padding: 9px 8px;
+        font-size: 11px;
+        font-weight: 700;
+        color: white;
+        transition: ease-in-out .5s;
+    }
+    .frotfolio-title h1 {
+        width: 100%;
+        font-size: 19px;
+    }
+    .frotfolio-title h3 {
+        padding: 7px 13px;
+        font-weight: 600;
+        font-size: 14px;
+        margin-bottom: 12px;
+    }
+    .protfolio-services ul li a {
+        padding-right: 8px;
+        font-size: 11px;
+        font-weight: bold;
+    }
+    
+}
+@media (max-width:399px){
+    .body-content .body-subtitle .subtitle-left ul li {
+        font-size: 10px;
+        line-height: 24px;
+    }
+    .body-content .body-subtitle .subtitle-right {
+        width: 44%;
+    }
+    .body-content .body-subtitle .subtitle-left ul li {
+        font-size: 10px;
+        line-height: 24px;
+    }
+    .body-content .body-subtitle .subtitle-left ul li {
+        font-size: 10px;
+        line-height: 24px;
+    }
+    .product-hover h4 {
+        margin-top: 11px;
+        font-size: 8px;
+        margin-bottom: 14px;
+    }
+    .protfolio-section {
+        margin-top: 129px 0;
+    }
+    .protfolio-section {
+        margin-bottom: 0;
+    }
+    .skills-title h1 {
+        font-size: 19px;
+    }
+    .skills-title h1 {
+        width: 100%;
+    }
+    .skills-servics .skills-product {
+        width: 100%;
+    }
+    .number-items {
+        padding: 51px 0;
+    }
+    p {
+        font-size: 10px;
+    }
+    .education-section {
+        padding-top: 27px;
+    }
+    .education-title h1 {
+        font-size: 19px;
+    }
+    .education-title h1 {
+        width: 100%;
+    }
+    .hire-title h1 {
+        font-size: 19px;
+    }
+    .footer-icon ul {
+        margin-bottom: 39px;
+    }
+    .footer-icon ul li a {
+        margin: 0 6px;
+        font-size: 18px;
+    }
+
+}
